@@ -1,0 +1,48 @@
+﻿<Window x:Class="StudentBankAccount.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="WPF: Centennial Account Management" Height="450" Width="325">
+    <Grid>
+        <GroupBox Header="Select Account Type" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,25,0,0" Height="95" Width="250">
+            <StackPanel HorizontalAlignment="Left" Height="51" VerticalAlignment="Top" Width="200" Margin="20,10,0,0">
+                <RadioButton x:Name="rbtnSaving" Content="Savings Account" Height="25px"/>
+                <RadioButton x:Name="rbtnChecking" Content="Checking Account"/>
+            </StackPanel>
+        </GroupBox>
+        <GroupBox Header="What Do You Wish To Do Today?" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,125,0,0" Height="159" Width="250">
+            <StackPanel HorizontalAlignment="Left" Height="125" VerticalAlignment="Top" Width="200" Margin="20,10,0,0">
+                <RadioButton x:Name="rbtnDeposit" Content="Deposit" Height="25px"/>
+                <RadioButton x:Name="rbtnWithdraw" Content="Withdraw" Height="25px"/>
+                <Grid Height="40px">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MaxWidth="80" />
+                        <ColumnDefinition Width="auto" />
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Amount ($):" Grid.Row="0" Grid.Column="0"/>
+                    <TextBox x:Name="txtAmount" Height="20" TextWrapping="Wrap" Text="" MinWidth="75px" Grid.Row="0" Grid.Column="1"/>
+                </Grid>
+                <Button x:Name="btnOK" Content="OK" Margin="0,0,130,0" Click="btnOK_Click" />
+            </StackPanel>
+        </GroupBox>
+        
+        <GroupBox Header="Account Information" FontWeight="Bold" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="35,290,0,0" Height="110" Width="250">
+            <StackPanel HorizontalAlignment="Left" Height="70" VerticalAlignment="Top" Width="200" Margin="10,10,0,0">
+                <Grid Height="40px">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="auto" />
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition MaxWidth="110px" />
+                        <ColumnDefinition Width="auto" />
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Account Balance:" Grid.Row="0" Grid.Column="0"/>
+                    <TextBox x:Name="txtBalance" Height="20" TextWrapping="Wrap" Text="$0.00" MinWidth="75px" Grid.Row="0" Grid.Column="1" IsReadOnly="true"/>
+                </Grid>
+                <Button x:Name="btnQuit" Content="QUIT" Margin="10,0,120,0" Click="btnQuit_Click" />
+            </StackPanel>
+        </GroupBox>
+    </Grid>
+</Window>

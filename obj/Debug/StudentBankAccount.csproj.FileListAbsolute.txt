@@ -1,0 +1,26 @@
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.exe.config
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.exe
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.pdb
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\MainWindow.baml
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\MainWindow.g.cs
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\App.g.cs
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount_MarkupCompile.cache
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.g.resources
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.Properties.Resources.resources
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.csproj.GenerateResource.Cache
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.exe
+C:\Users\Wendall\Desktop\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.pdb
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.exe.config
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.exe
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.pdb
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.exe
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\bin\Debug\StudentBankAccount.pdb
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.csprojResolveAssemblyReference.cache
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\MainWindow.baml
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\MainWindow.g.cs
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\App.g.cs
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount_MarkupCompile.cache
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.g.resources
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.Properties.Resources.resources
+C:\Users\Wendall\Dropbox\Fourth Semester\COMP212\Lab 5\WendallHsu_Lab5_WPF\StudentBankAccount\obj\Debug\StudentBankAccount.csproj.GenerateResource.Cache
